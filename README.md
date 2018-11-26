@@ -1,8 +1,7 @@
 # Croduino Pico Eagle Files
 ## Image
-![Croduino Pico image]
-(https://d3s5r33r268y59.cloudfront.net/33091/products/thumbs/2015-08-06T20:52:59.877Z-DSC_4570.jpg.2560x2560_q85.jpg)
-[Croduino Pico(100010)] (https://e-radionica.com/en/croduino-pico.html)
+![Croduino Pico image](https://d3s5r33r268y59.cloudfront.net/33091/products/thumbs/2015-08-06T20:52:59.877Z-DSC_4570.jpg.2560x2560_q85.jpg)
+[Croduino Pico(100010)](https://e-radionica.com/en/croduino-pico.html)
 
 ## Description and details
 Croduino Pico is a sequel to Croduino Basic board. It is simpler than the Basic version since it doesn't have FTDI converter on-board so it needs another board which has one for programming(Croduino Basic, for example). It is imagined to be used for leaving in projects and products.
